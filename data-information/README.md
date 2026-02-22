@@ -43,4 +43,10 @@ Contains transactional order-level information:
 - Occasion
 - Revenue
 
+## Additional Notes
+The Excel workbook also includes:
+- Pivot tables created for analysis
+- Calculated columns such as revenue and delivery time difference
+- An interactive dashboard used to visualize key insights
+
 These datasets are connected using common identifiers and analyzed together using Excel.
