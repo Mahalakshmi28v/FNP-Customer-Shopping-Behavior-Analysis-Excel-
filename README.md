@@ -58,3 +58,8 @@ The following analyses were performed using Excel pivot tables and charts:
 - Revenue comparison across different occasions
 - Product popularity by occasion
 
+## Conclusion
+This end-to-end Excel project demonstrates how structured data modeling, pivot table analysis, and dashboards can be used to analyze customer shopping behavior and sales performance.
+
+The insights derived from this analysis can help FNP improve product strategy, optimize delivery timelines, and make data-driven marketing and business decisions.
+
