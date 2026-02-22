@@ -44,9 +44,13 @@ Contains transactional order-level information:
 - Revenue
 
 ## Additional Notes
-The Excel workbook also includes:
+This folder also includes:
 - Pivot tables created for analysis
 - Calculated columns such as revenue and delivery time difference
 - An interactive dashboard used to visualize key insights
 
 These datasets are connected using common identifiers and analyzed together using Excel.
+
+## Detailed dashboard explanation 
+[FNP Customer Shopping Behavior Dashboard.pdf](https://github.com/user-attachments/files/25465667/FNP.Customer.Shopping.Behavior.Dashboard.pdf)
+
